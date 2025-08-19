@@ -1,5 +1,7 @@
 # Selection Parser
 
+![Screenshot](screenshot.png)
+
 An Obsidian plugin that automatically detects and parses Unix timestamps from selected text.
 
 **Features:**
