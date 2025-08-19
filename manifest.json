@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-selection-parser",
+	"name": "Selection Parser",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Console logs the text currently selected in Obsidian.",
+	"author": "User",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
